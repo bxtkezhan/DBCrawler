@@ -1,0 +1,5 @@
+---
+applications:
+ - name: DBCrawler
+   random-route: true
+   memory: 128M
